@@ -407,6 +407,12 @@ footer li {
         margin-left: 45px;
         top: 16px;
     }
+    
+    .timeline li .timeline-image2 {
+        left: 15px;
+        margin-left: 45px;
+        top: 16px;
+    }
 
     .timeline li .timeline-panel {
         width: calc(100% - 200px);
@@ -449,6 +455,11 @@ footer li {
         width: 140px;
         height: 140px;
     }
+    
+    .timeline li .timeline-image2 {
+        width: 140px;
+        height: 140px;
+    }
 }
 
 .sticky-top {
@@ -467,6 +478,11 @@ footer li {
     }
 
     .timeline li .timeline-image {
+        width: 80px;
+        height: 80px;
+    }
+    
+    .timeline li .timeline-image2 {
         width: 80px;
         height: 80px;
     }
